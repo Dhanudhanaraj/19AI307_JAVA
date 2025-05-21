@@ -29,7 +29,7 @@ RegisterNumber: 212222230030
 ```
 
 ## Sourcecode.java:
-
+```
 import java.util.Scanner;
 
 public class StringBuilderAppend {
@@ -45,10 +45,7 @@ public class StringBuilderAppend {
         System.out.println("sb1 = " + sb1.toString());
     }
 }
-
-
-
-
+```
 
 ## OUTPUT:
 
