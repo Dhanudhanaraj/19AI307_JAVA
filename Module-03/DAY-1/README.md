@@ -32,6 +32,7 @@ RegisterNumber: 212222230030
 ```
 
 ## Sourcecode.java:
+```
 import java.util.Scanner;
 
 public class StringEqualityCheck {
@@ -54,14 +55,10 @@ public class StringEqualityCheck {
         scanner.close();
     }
 }
-
+```
 
 ## OUTPUT:
-
-
 <img width="386" alt="image" src="<img width="513" alt="IMG1" src="https://github.com/user-attachments/assets/efe35baa-fdd2-4dea-a602-c54201aee16d" />
-
-
 
 ## RESULT:
 Thus the java Program to read input and print length of the string in java was executed successfully.
