@@ -24,7 +24,7 @@ RegisterNumber: 212222230030
 
 ## Sourcecode.java:
 
-
+```
 import java.util.*;
 	    
 		
@@ -45,6 +45,7 @@ import java.util.*;
 	}
 
 }
+```
 ## OUTPUT:
 
 <img width="396" alt="Image" src="https://github.com/user-attachments/assets/6d1b7a6e-8a82-4e5e-86cb-5b7d741f077a" />
